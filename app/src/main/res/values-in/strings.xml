@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_menu_movies">Film</string>
+    <string name="title_menu_tvshow">Serial TV</string>
+    <string name="app_name">MyMovieCatalogue2</string>
+    <string name="movies">Film</string>
+    <string name="ic_star">ic star</string>
+    <string name="ic_time">ic time</string>
+    <string name="poster">Poster</string>
+    <string name="ic_lang">ic lang</string>
+    <string name="title">Judul</string>
+    <string name="user_score">Skor Pengguna</string>
+    <string name="runtime">Durasi</string>
+    <string name="budget">Anggaran</string>
+    <string name="overview">Kilasan Singkat</string>
+    <string name="crew">Kru</string>
+    <string name="language_settings">Ubah Bahasa</string>
+</resources>

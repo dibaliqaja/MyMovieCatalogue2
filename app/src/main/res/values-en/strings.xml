@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_menu_movies">Movies</string>
+    <string name="title_menu_tvshow">TV Show</string>
+    <string name="app_name">MyMovieCatalogue2</string>
+    <string name="movies">Movies</string>
+    <string name="ic_star">ic star</string>
+    <string name="ic_time">ic time</string>
+    <string name="poster">Poster</string>
+    <string name="ic_lang">ic lang</string>
+    <string name="title">Title</string>
+    <string name="user_score">User Score</string>
+    <string name="runtime">Runtime</string>
+    <string name="budget">Budget</string>
+    <string name="overview">Overview</string>
+    <string name="crew">Crew</string>
+    <string name="language_settings">Language Configuration</string>
+</resources>
